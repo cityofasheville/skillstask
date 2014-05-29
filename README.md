@@ -20,15 +20,14 @@ Keep it simple. We are not looking for a finished product, but instead think "mi
 
 * You may use, borrow other code.  
 * However, putting the app together should be done by you.
-* You can ask us questions - We prefer you use this repo's issues as the communications to do it.
+* You can ask us questions - We prefer you use this repo's issues as the communications to do it. (Email is also fine)
 
-Email is also fine.
 
-Please complete your submission by Monday, June 9th, at 8pm.
 
 ##Submitting the app
 
 We really preffer to get submissions via GitHub and show the working app via GitHub pages.  But if you have other ways of working, that's fine. Just be sure the code is freely available on the web.
 
+**Please complete your submission by Monday, June 9th, at 8pm.**
 
 
