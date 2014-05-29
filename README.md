@@ -3,7 +3,7 @@ Graffiti Dashboard
 
 ##The Problem
 
-Asheville City Council has a new initiative to handle graffiti in the city.  As new initiatives are developed to combat the graffiti issues, the City wants to insure the initiatives are impactful.  For our part, we would like create a Graffiti Dashboard.  The dashboard should show anything that helps demonstrate how an initiative is impacting the City.
+Asheville City Council has a new initiative to handle graffiti in the city.  As new initiatives are developed to combat graffiti, the city wants to insure the initiatives are impactful.  For our part, we would like create a Graffiti Dashboard.  The dashboard should show anything that helps demonstrate how an initiative is impacting the city.
 
 ##Data 
 
@@ -17,11 +17,10 @@ Also please feel to use any data on the city's open data portal that might help 
 
 ##Rules
 
-Keep it simple. We are not looking for a finished product but instead think "minimal"... something that could start us down the path of awesome.  
+Keep it simple. We are not looking for a finished product, but instead think "minimal"... something that could start us down the path of awesome.  
 
 You may use, borrow other code.  
 However, putting the app together should be done by you.
-
 You can ask us questions - We prefer you use this repo's issues as the communications to do it.
 
 Email is also fine.
