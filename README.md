@@ -18,9 +18,9 @@ Also please feel to use any data on the city's open data portal that might help 
 
 Keep it simple. We are not looking for a finished product, but instead think "minimal"... something that could start us down the path of awesome.  
 
-*You may use, borrow other code.  
-*However, putting the app together should be done by you.
-*You can ask us questions - We prefer you use this repo's issues as the communications to do it.
+* You may use, borrow other code.  
+* However, putting the app together should be done by you.
+* You can ask us questions - We prefer you use this repo's issues as the communications to do it.
 
 Email is also fine.
 
