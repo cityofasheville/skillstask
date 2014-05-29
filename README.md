@@ -1,4 +1,4 @@
-#Graffiti Dashboard
+Graffiti Dashboard
 =====
 
 ##The Problem
