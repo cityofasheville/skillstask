@@ -21,6 +21,7 @@ Keep it simple. We are not looking for a finished product but instead think "min
 
 You may use, borrow other code.  
 However, putting the app together should be done by you.
+
 You can ask us questions - We prefer you use this repo's issues as the communications to do it.
 
 Email is also fine.
