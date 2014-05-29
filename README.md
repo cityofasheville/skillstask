@@ -25,9 +25,11 @@ You can ask us questions - We prefer you use this repo's issues as the communica
 
 Email is also fine.
 
-##submitting the app
+Please complete your submission by Monday, June 9th, at 8pm.
 
-We really preffer to get submissions via GitHub and Show the working app via GitHub pages.  But if you have other ways of working, that's fine, as long as the code is freely available on the web.
+##Submitting the app
+
+We really preffer to get submissions via GitHub and show the working app via GitHub pages.  But if you have other ways of working, that's fine. Just be sure the code is freely available on the web.
 
 
 
