@@ -20,13 +20,12 @@ Also please feel to use any data on the data portal that might help - http://ope
 Keep it simple. we are not looking for a finished product but instead think "minimal".  Something that could start us down the path of awesome.  
 
 You may use, borrow other code.  
-Putting the app togher should be done by you.
-
-You can ask us questions -We preffer you use this repo's issues as the communications to do it.  Email is also fine.
+however, putting the app togher should be done by you.
+You can ask us questions - We preffer you use this repo's issues as the communications to do it.  Email is also fine.
 
 ##submitting the app
 
-We really preffer to get submissions via GitHub and Show the working app via GitHUb pages.  But if you have other ways of working thats fine also as long as the code freely available on the web.
+We really preffer to get submissions via GitHub and Show the working app via GitHUb pages.  But if you have other ways of working that's fine as long as the code freely available on the web.
 
 
 
