@@ -1,7 +1,5 @@
-grepo
-=====
-
 #Graffiti Dashboard
+=====
 
 ##The Problem
 
