@@ -11,7 +11,7 @@ Asheville City Council has a new initiative to handle graffiti in the city.  As 
 * Please use the key - 58j013k159vpqz87xd85df0uy7epvl
 * There is a quick how to use the api document here: https://github.com/CodeForAsheville/CityAVL_311_API
 * Also please feel to use any data on the city's open data portal that might help - http://opendatacatalog.ashevillenc.gov/
-
+* Added more Graffiti data from another source.  You can find the additional data at: http://opendatacatalog.ashevillenc.gov/opendata/resource/84/city-of-asheville-mobile-311-graffiti-reports/
 
 ##Rules
 
